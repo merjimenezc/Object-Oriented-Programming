@@ -19,4 +19,3 @@ Dig Dug – The iconic main character.
 
 Stage 1/Level One:
 Dig Dug faces four monsters on stage one. Three Pookas and one Fygar will patrol their own individual tunnels, making it much easier for players to complete this level. You can either take out each monster one at a time, or you can use the rocks positioned overhead to destroy them. Destroying two or more enemies with a rock on stage one will give you a carrot, which is worth 400 extra points.
-![image](https://user-images.githubusercontent.com/44124264/143334933-4643472d-49a7-47a5-afb2-8358ee701439.png)
